@@ -2,6 +2,8 @@
 
 ### Trabajo práctico N1
 
+####[Link a programacion](/entornos-sensoriales/index.html)
+
 #### Integrantes: 
     - Francesca Cantore
     - Amawta Relmu

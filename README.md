@@ -5,6 +5,6 @@
 
 ### [Programación de entornos sensoriales](/entornos-sensoriales.md)
 
-```sequence {theme='hand'}
+```sequence {theme="hand"}
 hola -> hola
 ```

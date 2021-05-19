@@ -1,0 +1,16 @@
+let value = 0;
+function draw() {
+  fill(value);
+  rect(25, 25, 50, 50);
+}
+function touchStarted() {
+  if (value === 0) {
+    value = 255;
+  } else {
+    value = 0;
+  }
+}
+
+
+window.navigator.vibrate(200); // vibrate for 200ms
+window.navigator.vibrate([100,30,100,30,100,30,200,30,200,30,200,30,100,30,100,30,100]); // Vibrate 'SOS' in Morse.

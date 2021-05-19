@@ -11,4 +11,5 @@ function touchStarted() {
   }
   
   window.navigator.vibrate(200);
+  console.log("Touch");
 }
